@@ -10,7 +10,7 @@ function layso() {
     }
     return [Number(a), Number(b)];
 }
-
+.
 function nhan() {
     let s = layso();
     if (s != null) {
